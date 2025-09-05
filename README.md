@@ -108,7 +108,7 @@ A complete Java Swing application for managing student records with the followin
 For example, to run the Student Management System:
 
 ```
-cd src/Chapter_08_Mini_Projects/StudentManagementSystem
+cd Chapter_08_Mini_Projects/StudentManagementSystem
 javac StudentManagementSystem.java
 java StudentManagementSystem
 ```
